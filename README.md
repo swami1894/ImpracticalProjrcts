@@ -1,2 +1,2 @@
-# ImpracticalProjrcts
+# ImpracticalProjects
 List of impractical projects
