@@ -48,7 +48,7 @@ def generate_persona():
     else:
         persona_first = random.choice(first)
         persona_last = random.choice(last)
-        displaytext.config(text="'{} {}' is your silly persona {}!".format(persona_first, persona_last, name))
+        displaytext.config(text="{} {} is your silly persona {}!".format(persona_first, persona_last, name))
     return None
 
 WIDTH = 500
