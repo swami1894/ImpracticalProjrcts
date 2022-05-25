@@ -98,5 +98,5 @@ quitButton.place(x=650, y=200)
 display_text = tk.Label(frame, text="", justify=tk.LEFT)
 display_text.place(x=300, y= 350)
 
-# Start GUI
+# Start GUI and loop through.
 frame.mainloop()
