@@ -96,7 +96,7 @@ quitButton.place(x=650, y=200)
 
 # Display any error message or the silly persona if all inputs are valid
 display_text = tk.Label(frame, text="", justify=tk.LEFT)
-display_text.place(x=300, y= 350)
+display_text.place(x=300, y= 230)
 
 # Start GUI and loop through.
 frame.mainloop()
